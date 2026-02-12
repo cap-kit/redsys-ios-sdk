@@ -1,0 +1,10 @@
+This repository provides a Swift Package Manager wrapper
+for the official Redsys InApp iOS SDK (TPVVInLibrary.xcframework).
+
+The SDK is developed and owned by Redsys Servicios de Procesamiento S.L.
+
+This repository does not modify the SDK and only provides
+packaging for integration purposes.
+
+For official licensing terms, refer to:
+https://pagosonline.redsys.es/
